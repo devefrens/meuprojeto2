@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Como configurar e enviar um projeto para o GitHub
 
 Este guia descreve os passos para configurar e enviar um repositório Git local para o GitHub.
@@ -64,3 +65,6 @@ git push -u origin main
 ---
 
 Agora o seu projeto está configurado e publicado no GitHub! 🎉
+=======
+# meuprojeto2
+>>>>>>> origin/main
