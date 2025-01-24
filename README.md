@@ -64,5 +64,3 @@ git push -u origin main
 ---
 
 Agora o seu projeto está configurado e publicado no GitHub! 🎉
-=======
-# meuprojeto2
